@@ -1,16 +1,16 @@
-### Hi there 👋
+# ⚡ Gabriel Henrique S. Gava
 
-<!--
-**gabrielgaava/gabrielgaava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer** and **UX/UI Designer** 
 
-Here are some ideas to get you started:
+Computer science student in São Paulo State University - UNESP. Also a researcher and software developer on GBD. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Techs I know: ```React.js```, ```React Native```, ```Next.js```, ```Flutter```, ```Django```, ```Spring``` and much more
+
+- 📫 How to reach me: nero.gava@gmail.com
+
+- 🎮 **Dark Souls** will aways be my favorite game
+
+🚀 Twitter: [@Gaava0](https://twitter.com/Gaava0)
+
+> "Treinar na solidão serve apenas para perpetuar erros."
+> ― Vesemir, The Witcher
