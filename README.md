@@ -1,6 +1,9 @@
-# ⚡ Gabriel Henrique S. Gava
+# ⚡ Gabriel Henrique S. Gava  
 
 **Software Engineer** and **UX/UI Designer** 
+
+[![Name](https://user-images.githubusercontent.com/31636577/120701140-de5a7a80-c488-11eb-9b85-e06e9b758a04.png)](https://www.linkedin.com/in/gabriel-gava/) 
+[![Email](https://user-images.githubusercontent.com/31636577/120701148-e1556b00-c488-11eb-9a2d-1b175081e932.png)](mailto:nero.gava@gmail.com)
 
 Computer science student in São Paulo State University - UNESP. Also a researcher and software developer on GBD. 
 
