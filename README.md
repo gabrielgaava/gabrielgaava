@@ -15,5 +15,7 @@ Computer science student in São Paulo State University - UNESP. Also a research
 
 🚀 Twitter: [@Gaava0](https://twitter.com/Gaava0)
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gabrielgaava&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
 > "Treinar na solidão serve apenas para perpetuar erros."
 > ― Vesemir, The Witcher
